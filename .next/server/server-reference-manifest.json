@@ -1,0 +1,42 @@
+{
+  "node": {
+    "2317546756d635047407ba393ab7b74ed56a6e7f": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fworkspaces%2Fsub%2Fapp%2Fauth%2Factions.ts%22%2C%5B%22signOutAction%22%2C%22signInAction%22%2C%22signUpAction%22%5D%5D%5D&__client_imported__=!",
+        "app/signup/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fworkspaces%2Fsub%2Fapp%2Fauth%2Factions.ts%22%2C%5B%22signOutAction%22%2C%22signInAction%22%2C%22signUpAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fworkspaces%2Fsub%2Fapp%2Fauth%2Factions.ts%22%2C%5B%22signOutAction%22%2C%22signInAction%22%2C%22signUpAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/signup/page": "action-browser",
+        "app/login/page": "action-browser"
+      }
+    },
+    "9c0f50ab50aa4af2fd989c3074218f703f341d2e": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fworkspaces%2Fsub%2Fapp%2Fauth%2Factions.ts%22%2C%5B%22signOutAction%22%2C%22signInAction%22%2C%22signUpAction%22%5D%5D%5D&__client_imported__=!",
+        "app/signup/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fworkspaces%2Fsub%2Fapp%2Fauth%2Factions.ts%22%2C%5B%22signOutAction%22%2C%22signInAction%22%2C%22signUpAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fworkspaces%2Fsub%2Fapp%2Fauth%2Factions.ts%22%2C%5B%22signOutAction%22%2C%22signInAction%22%2C%22signUpAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/signup/page": "action-browser",
+        "app/login/page": "action-browser"
+      }
+    },
+    "cc4afb54c4a8b42c361ea23fca76de1851b7208d": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fworkspaces%2Fsub%2Fapp%2Fauth%2Factions.ts%22%2C%5B%22signOutAction%22%2C%22signInAction%22%2C%22signUpAction%22%5D%5D%5D&__client_imported__=!",
+        "app/signup/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fworkspaces%2Fsub%2Fapp%2Fauth%2Factions.ts%22%2C%5B%22signOutAction%22%2C%22signInAction%22%2C%22signUpAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fworkspaces%2Fsub%2Fapp%2Fauth%2Factions.ts%22%2C%5B%22signOutAction%22%2C%22signInAction%22%2C%22signUpAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/signup/page": "action-browser",
+        "app/login/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "sIgP4IREBur2wrGpsjDX9TRoHm0qzANO5V1RgP9/4Jg="
+}

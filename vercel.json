@@ -1,0 +1,20 @@
+{
+  "crons": [
+    {
+      "path": "/api/cron/expire-reservations",
+      "schedule": "*/2 * * * *"
+    },
+    {
+      "path": "/api/cron/process-automation-tasks",
+      "schedule": "*/5 * * * *"
+    },
+    {
+      "path": "/api/cron/subscription-expiry",
+      "schedule": "0 8 * * *"
+    },
+    {
+      "path": "/api/cron/process-waitlist",
+      "schedule": "*/10 * * * *"
+    }
+  ]
+}
